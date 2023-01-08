@@ -43,7 +43,7 @@ def prime_num(num):             # Function to check prime or composite
             res="is a Prime number"
             return res
     else:
-        res = "is neither even nor odd number"
+        res = "is neither prime nor composite"
         return res
 
 # Information for the user
